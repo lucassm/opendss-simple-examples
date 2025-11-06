@@ -1,15 +1,13 @@
-# Arquivo DSS exemplos
+# DSS File Examples
 
-Este repositório contém alguns arquivos simples de exemplo, baseados em rede proposta
-pelos seus criadores, Paulo Radatz e Celso Rocha.
+This repository contains some simple example files, based on a proposed network
+by its creators, Paulo Radatz and Celso Rocha.
 
-O propósito desse repositório é unicamente ser clonado em um ambiente do google colab
-para facilitar o acesso aos arquivos dss em que as redes estão modeladas para alguns
-dos principais casos de simulação do `openDSS`.
+The purpose of this repository is solely to be cloned in a Google Colab
+environment to facilitate access to the DSS files where the networks are modeled
+for some of the main simulation cases of `OpenDSS`.
 
-> [!note] Aviso!
-> Este repositório foi criado pelo professor Lucas Silveira para
-> ser utilizado em suas aulas e treinamentos de openDSS
-> e pode ser livremente utilizado por quem queira.
-
-
+> [!IMPORTANT]
+> This repository was created by Professor Lucas Silveira to be
+> used in his OpenDSS classes and training and can be freely used by anyone who
+> wants to.
