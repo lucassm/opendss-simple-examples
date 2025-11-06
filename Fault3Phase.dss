@@ -55,13 +55,13 @@ Solve
 BusCoords Coordenadas.csv
 
 // Arquivos de Resultados
-Show Voltage LN Nodes
-Show Power Elements
-Show Currents Elements
-Show Losses
+// Show Voltage LN Nodes
+// Show Power Elements
+// Show Currents Elements
+// Show Losses
 
 // Perfil de Tensao
-Plot Profile
+//Plot Profile
 
 // Plot o Circuito
-Plot circuit Power Max=2200 dots=y labels=y subs=y C1=Blue
+//Plot circuit Power Max=2200 dots=y labels=y subs=y C1=Blue

@@ -52,8 +52,8 @@ Solve
 BusCoords Coordenadas.csv
 
 // Arquivos de Resultados
-Export SeqZ
-Show fault
-Export FaultStudy
+//Export SeqZ
+//Show fault
+//Export FaultStudy
 
 
