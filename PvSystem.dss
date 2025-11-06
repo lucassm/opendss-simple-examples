@@ -61,14 +61,14 @@ New TShape.Temp npts=24 interval=1
 ~ temp=[25 25 25 25 25 25 25 25 35 40 45 50 60 60 55 40 35 30 25 25 25 25 25 25]
 
 // PVSystem
-New PVSystem.PV_A phases=3 bus1=A_PV Pmpp=8000 kV=0.38 kVA=8000 conn=wye 
+New PVSystem.PV_A phases=3 bus1=D_PV Pmpp=8000 kV=0.38 kVA=8000 conn=wye 
 ~ EffCurve=Eff P-TCurve=FatorPvsT pf=1 irradiance=0.98 daily=Irrad Tdaily=Temp
 //==========================================================================================
 
 // Definição de um Transformador
 New Transformer.Trafo_PV_A phases = 3 windings=2 xhl=5 %noloadloss=0.39 %loadloss=1.47  
 ~ wdg =1  bus=D  kV=13.8 kVA=8000 conn=wye 
-~ wdg =2  bus=A_PV  kV=0.38 kVA=8000 conn=wye
+~ wdg =2  bus=D_PV  kV=0.38 kVA=8000 conn=wye
 
 
 // Medidor
